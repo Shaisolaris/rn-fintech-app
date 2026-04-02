@@ -6,7 +6,7 @@ import { authenticateWithBiometrics, isBiometricAvailable } from "../services/bi
 
 export function LoginScreen() {
   const [email, setEmail] = useState("alex@example.com");
-  const [password, setPassword] = useState("password");
+  const [password, setPassword] = useState("");
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
   const login = useAppStore((s) => s.login);
