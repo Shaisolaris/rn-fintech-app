@@ -2,6 +2,16 @@
 
 ![CI](https://github.com/Shaisolaris/rn-fintech-app/actions/workflows/ci.yml/badge.svg)
 
+
+## Quick Start
+
+```bash
+git clone https://github.com/Shaisolaris/rn-fintech-app.git
+cd rn-fintech-app
+npm install --legacy-peer-deps
+npx expo start
+```
+
 React Native fintech application built with Expo, featuring portfolio management with interactive SVG charts, transaction history with filters, payment card management with freeze/unfreeze, budget tracking, and biometric authentication. Uses Zustand for state management and TypeScript throughout.
 
 ## Stack
