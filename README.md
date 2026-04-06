@@ -1,5 +1,7 @@
 # rn-fintech-app
 
+![CI](https://github.com/Shaisolaris/rn-fintech-app/actions/workflows/ci.yml/badge.svg)
+
 React Native fintech application built with Expo, featuring portfolio management with interactive SVG charts, transaction history with filters, payment card management with freeze/unfreeze, budget tracking, and biometric authentication. Uses Zustand for state management and TypeScript throughout.
 
 ## Stack

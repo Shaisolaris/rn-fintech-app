@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Fintech App",
+    "slug": "rn-fintech-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": { "backgroundColor": "#1a1a2e" },
+    "ios": { "bundleIdentifier": "com.solaris.rn-fintech-app", "supportsTablet": true },
+    "android": { "package": "com.solaris.rn_fintech_app", "adaptiveIcon": { "backgroundColor": "#1a1a2e" } },
+    "plugins": ["expo-router"]
+  }
+}
