@@ -1,3 +1,4 @@
+import { } from "../data/demo";
 import React from "react";
 import { View, ScrollView, Text, TouchableOpacity, StyleSheet } from "react-native";
 import { colors, spacing, fontSize, borderRadius } from "../theme/index.js";
