@@ -1,4 +1,3 @@
-import { } from "../data/demo";
 import React, { useRef } from "react";
 import { View, ScrollView, Text, TouchableOpacity, StyleSheet, FlatList, Dimensions } from "react-native";
 import { colors, spacing, fontSize, borderRadius } from "../theme/index.js";
