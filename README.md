@@ -3,6 +3,9 @@
 ![CI](https://github.com/Shaisolaris/rn-fintech-app/actions/workflows/ci.yml/badge.svg)
 
 
+
+React Native fintech app with portfolio tracking, transaction history, card management, budget tracking, and biometric auth. Expo + TypeScript + Zustand.
+
 ## Quick Start
 
 ```bash
